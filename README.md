@@ -10,6 +10,5 @@ Exercice Pyramids : full_pyramid affiche bien une pyramide complète mais j'ai c
 
 Exercice Password : Description courte impossible :D
 
-Exercice Stairway : Un début de réflexion mais pas eu le temps de faire l'exercice ...  
 
 
